@@ -58,11 +58,11 @@ export default function Application() {
                 <footer className="mt-3">
                   <div className="flex items-center">
                     <div className="flex-shrink-0">
-                      <img
+                      {/* <img
                         className="h-8 w-8 rounded-full"
                         src="https://placehold.co/100x100"
                         alt="Image Description"
-                      />
+                      /> */}
                     </div>
                     <div className="grow ms-4">
                       <div className="font-semibold">Emily Torres</div>
